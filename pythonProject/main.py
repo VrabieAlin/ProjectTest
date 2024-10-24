@@ -22,3 +22,6 @@ def three(string):
 def numaratoare(numar):
     for item in range(1, numar):
         item += 1
+
+def nikon(model):
+    return model
