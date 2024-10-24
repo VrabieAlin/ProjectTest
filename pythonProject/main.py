@@ -14,3 +14,7 @@ def five(string):
 
 def seven():
     print('AlexLitu')
+
+
+def three(string):
+    return string * 3
