@@ -30,3 +30,7 @@ def nikon(model):
 
 def masina(model):
     return model
+
+
+def oras(oras):
+    return oras
