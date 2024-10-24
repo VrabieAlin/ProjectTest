@@ -31,8 +31,11 @@ def nikon(model):
 def masina(model):
     return model
 
+print(masina('Tesla'))
 
 def oras(oras):
     return oras
 
 print(oras('Tokyo'))
+
+
