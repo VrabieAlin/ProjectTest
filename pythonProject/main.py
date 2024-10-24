@@ -11,3 +11,6 @@ def four():
     
 def five(string):
     return 'Catalin'
+
+def seven():
+    print('AlexLitu')
