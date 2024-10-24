@@ -25,3 +25,8 @@ def numaratoare(numar):
 
 def nikon(model):
     return model
+
+
+
+def masina(model):
+    return model
