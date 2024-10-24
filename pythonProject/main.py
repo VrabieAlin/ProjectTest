@@ -30,3 +30,6 @@ def nikon(model):
 
 def masina(model):
     return model
+
+def numar(numar):
+    return numar
