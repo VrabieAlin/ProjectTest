@@ -18,3 +18,7 @@ def seven():
 
 def three(string):
     return string * 3
+
+
+def nikon(model):
+    return model
