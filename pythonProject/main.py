@@ -34,3 +34,5 @@ def masina(model):
 
 def oras(oras):
     return oras
+
+print(oras('Tokyo'))
