@@ -14,3 +14,6 @@ def five(string):
 
 def caine():
     print("Caine")
+
+ef three(string):
+    return string * 3
