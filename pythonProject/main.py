@@ -18,3 +18,7 @@ def seven():
 
 def three(string):
     return string * 3
+
+def numaratoare(numar):
+    for item in range(1, numar):
+        item += 1
