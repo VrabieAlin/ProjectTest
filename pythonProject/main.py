@@ -41,3 +41,5 @@ print(oras('Tokyo'))
 
 def numar(numar):
     return numar
+def caine(caine):
+    return caine
