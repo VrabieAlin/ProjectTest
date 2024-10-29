@@ -48,3 +48,5 @@ def caine(caine):
 
 def pisica(miau):
     return 'miau'
+
+print('Caine')
