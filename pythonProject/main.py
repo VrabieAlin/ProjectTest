@@ -36,3 +36,6 @@ def oras(oras):
     return oras
 
 print(oras('Tokyo'))
+
+
+print('Caine')
